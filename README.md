@@ -7,6 +7,5 @@ This language is usually in the game development.
 
 For example, it used in Mini World or Q-Block World. 
 
-Tips: This is a Chinese Meme!
-
-
+Tips: This is a Chinese Meme and I
+use ChatGPT in this language. 
